@@ -2,3 +2,4 @@ Experienced Data Scientist with a focus on Machine Learning, Deep Learning, and 
 
 Industrial Experience on ML Projects using Decision Trees, Random Forest, hands on using other
 ML models.
+Experience in fine-tuning large language models such as GPT and BERT to meet business needs,improving natural language understanding and generation capabilities.
