@@ -1,0 +1,4 @@
+The objective of the Bank Loan Analysis project was to analyze loan data to achieve their goals and manage financial needs.
+
+Specialized in designing and training generative AI models for various applications, including 
+text generation, question answering, summarization, and more.
