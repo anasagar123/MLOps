@@ -2,3 +2,4 @@ The objective of the Bank Loan Analysis project was to analyze loan data to achi
 
 Specialized in designing and training generative AI models for various applications, including 
 text generation, question answering, summarization, and more.
+The theme of the Project was to generate the respective Python (PySpark) codes for given SAS Procedures. Firstly, given SAS procs are executed using the dummy data in SAS environment. Then task to generate the generic python codes using functional programming which will be worked on any dataset to get the same output we got on SAS environment
